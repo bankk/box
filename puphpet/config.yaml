@@ -118,7 +118,7 @@ mysql:
         2LY9xVj9jXIz:
             grant:
                 - ALL
-            name: jagged
+            name: local
             host: localhost
             user: admin
             password: root
